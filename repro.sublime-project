@@ -1,0 +1,17 @@
+{
+  "folders":
+  [
+    {
+      "path": ".",
+    },
+  ],
+  "settings": {},
+  "build_systems": [
+    {
+      "name": "Run",
+      "cmd": ["go", "run", "."],
+      "working_dir": "$project_path",
+      "cancel": {"kill": true},
+    },
+  ]
+}

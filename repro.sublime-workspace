@@ -1,0 +1,2351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Refre",
+				"RefreshFeedWorker"
+			],
+			[
+				"Download",
+				"DownloadArgs"
+			],
+			[
+				"Hea",
+				"DownloadHeaders"
+			],
+			[
+				"Slice",
+				"SliceStable"
+			],
+			[
+				"Begin",
+				"Begin"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"only",
+				"only"
+			],
+			[
+				"gruo",
+				"groupZ"
+			],
+			[
+				"urlsearc",
+				"SvelteURLSearchParams"
+			],
+			[
+				"innerW",
+				"innerWidth"
+			],
+			[
+				"i",
+				"isFinite"
+			],
+			[
+				"padding-in",
+				"padding-inline-start"
+			],
+			[
+				"InsertRe",
+				"JobInsertResult"
+			],
+			[
+				"tx",
+				"InsertTx"
+			],
+			[
+				"Body",
+				"Request.GetBody"
+			],
+			[
+				"NotExis",
+				"ErrNotExist"
+			],
+			[
+				"Downlo",
+				"DownloadWorker"
+			],
+			[
+				"Leel",
+				"LevelInfo.Level"
+			],
+			[
+				"Pri",
+				"Println"
+			],
+			[
+				"Pr",
+				"Println"
+			],
+			[
+				"row",
+				"rowStart"
+			],
+			[
+				"colum",
+				"columnName"
+			],
+			[
+				"interpolateRdYl",
+				"interpolateRdYlGn"
+			],
+			[
+				"rdyl",
+				"schemeRdYlGn"
+			],
+			[
+				"package",
+				"package main"
+			],
+			[
+				"perCoreCpu",
+				"perCoreCpuUtilizationBusy"
+			],
+			[
+				"tik",
+				"tickFormat"
+			],
+			[
+				"parent",
+				"parentNode"
+			],
+			[
+				"parquet",
+				"parquetSchema"
+			],
+			[
+				"parque",
+				"parquetSchema"
+			],
+			[
+				"wrap",
+				"text-wrap"
+			],
+			[
+				"text-dec",
+				"text-decoration-skip"
+			],
+			[
+				"--",
+				"--fg-color"
+			],
+			[
+				"a",
+				"initial"
+			],
+			[
+				"c",
+				"cast_slice(…)"
+			],
+			[
+				"include",
+				"include_bytes!(…)"
+			],
+			[
+				"sc",
+				"script (lang=\"ts\")"
+			],
+			[
+				"debug",
+				"debug_assertions"
+			],
+			[
+				"INFINI",
+				"INFINITE_LIMIT"
+			],
+			[
+				"nex",
+				"next_free_side_layer()"
+			],
+			[
+				"map",
+				"and_thenflatmap"
+			],
+			[
+				"unwra",
+				"unwrap_or_else"
+			],
+			[
+				"can",
+				"canUndo"
+			],
+			[
+				"next",
+				"next_free_side_layer()"
+			],
+			[
+				"can_",
+				"can_redo()"
+			],
+			[
+				"infinite",
+				"infiniteModeOff"
+			],
+			[
+				"LayerSpec",
+				"LayerSpec()"
+			],
+			[
+				"side",
+				"free_side_layers"
+			],
+			[
+				"layers_to",
+				"layers_to_clear"
+			],
+			[
+				"BTree",
+				"BTreeSet<…> (use std::collections::BTreeSet)"
+			],
+			[
+				"snap",
+				"snap_cursor"
+			],
+			[
+				"snaps",
+				"snapshot(…)"
+			],
+			[
+				"clear",
+				"clear_layer"
+			],
+			[
+				"Han",
+				"BrushGroupHandle"
+			],
+			[
+				"Debug",
+				"Debug (alias {:?}) (use std::fmt::Debug)"
+			],
+			[
+				"satu",
+				"saturating_sub(…)"
+			],
+			[
+				"all",
+				"all(…) (as Iterator)"
+			],
+			[
+				"info",
+				"info!(…) (use tracing::info)"
+			],
+			[
+				"to_le",
+				"to_le_bytes()"
+			],
+			[
+				"to_b",
+				"to_le_bytes()"
+			],
+			[
+				"-wrap",
+				"text-wrap"
+			],
+			[
+				"MouseEve",
+				"MouseEventHandler"
+			],
+			[
+				"Instr",
+				"SnapshotInstr"
+			],
+			[
+				"Inst",
+				"Instance"
+			],
+			[
+				"pow",
+				"powf"
+			],
+			[
+				"last_a",
+				"last_layer_index"
+			],
+			[
+				"next_ly",
+				"next_layer_index"
+			],
+			[
+				"check",
+				"checked_sub(…)"
+			],
+			[
+				"cl",
+				"clear_layer(…)"
+			],
+			[
+				"buff",
+				"sparkle_buffer_size"
+			],
+			[
+				"size_",
+				"size_of_val(…)"
+			],
+			[
+				"la",
+				"layer_index"
+			],
+			[
+				"Lyaers",
+				"Layers"
+			],
+			[
+				"LayerConfig",
+				"LayerConfig{}"
+			],
+			[
+				"iter",
+				"iter_mut()"
+			],
+			[
+				"first",
+				"first_key_value()"
+			],
+			[
+				"compo",
+				"composite_layer"
+			],
+			[
+				"Range",
+				"Range<…> (alias ..) (use std::ops::Range)"
+			],
+			[
+				"it",
+				"iter_mut()"
+			],
+			[
+				"PassT",
+				"PassTarget::Canvas"
+			],
+			[
+				"Load",
+				"LoadOp::Clear()"
+			],
+			[
+				"fir",
+				"first_key_value()"
+			],
+			[
+				"Side",
+				"Layer::Side"
+			],
+			[
+				"to_by",
+				"to_le_bytes()"
+			],
+			[
+				"Rende",
+				"RenderTarget::Canvas"
+			],
+			[
+				"BrushGr",
+				"BrushGroupHandle"
+			],
+			[
+				"derv",
+				"derive_more"
+			],
+			[
+				"skip",
+				"skip(…) (as Iterator)"
+			],
+			[
+				"BrushGrou",
+				"BrushGroupId"
+			],
+			[
+				"bin",
+				"binary_search_by(…)"
+			],
+			[
+				"warn",
+				"warn!(…) (use tracing::warn)"
+			],
+			[
+				"byte_",
+				"byte_offset_length(…) (use crate::byte_offset_length)"
+			],
+			[
+				"co",
+				"#core"
+			],
+			[
+				"cast",
+				"cast_slice"
+			],
+			[
+				"includ",
+				"include_layer1"
+			],
+			[
+				"lay",
+				"layers"
+			],
+			[
+				"en",
+				"enqueue_command(…)"
+			],
+			[
+				"encode",
+				"encode_command(…)"
+			],
+			[
+				"from",
+				"from_iter(…) (as FromIterator)"
+			],
+			[
+				"CopyLa",
+				"CopyLayerToScratchLayer{}"
+			],
+			[
+				"clon",
+				"clone() (as Clone)"
+			],
+			[
+				"norma",
+				"normalize_or_zero"
+			],
+			[
+				"Float",
+				"Float64Array"
+			],
+			[
+				"scr",
+				"script (lang=\"ts\")"
+			],
+			[
+				"texta",
+				"text-anchor"
+			],
+			[
+				"Blend",
+				"Blend"
+			],
+			[
+				"Bl",
+				"Blend::Light"
+			],
+			[
+				"Laye",
+				"RenderTarget::Layer()"
+			],
+			[
+				"create",
+				"create_group_id"
+			],
+			[
+				"tim",
+				"last_tick_time"
+			],
+			[
+				"geom",
+				"Geom::BoxBlurLayers"
+			],
+			[
+				"set",
+				"setRenderPipeline"
+			],
+			[
+				"asser",
+				"assert"
+			],
+			[
+				"comp",
+				"compositing_layer_dirty"
+			],
+			[
+				"pee",
+				"peek_mut()"
+			],
+			[
+				"take",
+				"take_while(…) (as Iterator)"
+			],
+			[
+				"num",
+				"num_layers"
+			],
+			[
+				"RenderTar",
+				"RenderTarget::Layer()"
+			],
+			[
+				"Grop",
+				"GroupKey"
+			],
+			[
+				"sig",
+				"copysign(…)"
+			],
+			[
+				"preiew",
+				"PreviewId"
+			],
+			[
+				"BrushS",
+				"BrushStateConstructor (use super::BrushStateConstructor)"
+			],
+			[
+				"flse",
+				"false"
+			],
+			[
+				"PI",
+				"FRAC_PI_2"
+			],
+			[
+				"con",
+				"consts (use core::f32)"
+			],
+			[
+				"Clear",
+				"LoadOp::Clear()"
+			],
+			[
+				"RenderT",
+				"RenderTarget::ScratchLayer()"
+			],
+			[
+				"e",
+				"extend(…) (as Extend)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"view ac",
+				"View Package File"
+			],
+			[
+				"view pack",
+				"View Package File"
+			],
+			[
+				"overrideaud",
+				"OverrideAudit: Bulk Diff All Packages (Excluding unchanged)"
+			],
+			[
+				"package report",
+				"OverrideAudit: Package Report"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"browse ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"cance",
+				"Build: Cancel"
+			],
+			[
+				"res",
+				"LSP: Restart Server"
+			],
+			[
+				"rest",
+				"LSP: Restart Server"
+			],
+			[
+				"uniq",
+				"Permute Lines: Unique"
+			],
+			[
+				"re",
+				"LSP: Restart Server"
+			],
+			[
+				"upgrade p",
+				"Package Control: Upgrade All Packages"
+			],
+			[
+				"resta",
+				"LSP: Restart Server"
+			],
+			[
+				"rel",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colo",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"schem",
+				"UI: Select Color Scheme"
+			],
+			[
+				"package up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"format",
+				"LSP: Format File"
+			],
+			[
+				"restar",
+				"LSP: Restart Server"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lsp sett",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsp set",
+				"Preferences: LSP-typescript Settings"
+			],
+			[
+				"go lsp set",
+				"Preferences: LSP-gopls Settings"
+			],
+			[
+				"go lsp",
+				"LSP: Goto Definition"
+			],
+			[
+				"json fr",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"ers",
+				"TreeSitter: Reload Plugin"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Channel"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"resa",
+				"PackageResourceViewer: Extract All Packages"
+			],
+			[
+				"lsp s",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsp settting",
+				"Preferences: LSP-svelte Settings"
+			],
+			[
+				"terminupan",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"enable lsp",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"lsp sve",
+				"Preferences: LSP-svelte Settings"
+			],
+			[
+				"enable langua",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"disabl",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"lsp disable",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"pretty sett",
+				"Preferences: Pretty JSON Settings"
+			],
+			[
+				"prettier",
+				"Preferences: TreeSitter Settings"
+			],
+			[
+				"prettiset",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"terminu",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"package control ",
+				"Package Control: Upgrade All Packages"
+			],
+			[
+				"expand rec",
+				"LSP-rust-analyzer: Expand Macro Recursively"
+			],
+			[
+				"exnarec",
+				"LSP-rust-analyzer: Expand Macro Recursively"
+			],
+			[
+				"expand",
+				"LSP-rust-analyzer: Expand Macro Recursively"
+			],
+			[
+				"expand m",
+				"LSP-rust-analyzer: Expand Macro Recursively"
+			],
+			[
+				"expan",
+				"LSP-rust-analyzer: Expand Macro Recursively"
+			],
+			[
+				"State",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"restart",
+				"LSP: Restart Server"
+			],
+			[
+				"rut enhance",
+				"Preferences: Rust Enhanced Settings"
+			],
+			[
+				"lsp rnst",
+				"Preferences: LSP-rust-analyzer Settings"
+			],
+			[
+				"lsp rest",
+				"LSP: Restart Server"
+			],
+			[
+				"lsp res",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsp re",
+				"LSP: Restart Server"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lowerc",
+				"Convert Case: lowerCamelCase"
+			],
+			[
+				"settings gopl",
+				"Preferences: LSP-gopls Settings"
+			],
+			[
+				"enable glob",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"lsp enable",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"gopls",
+				"Preferences: LSP-gopls Settings"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"upgrade all",
+				"Package Control: Upgrade All Packages"
+			],
+			[
+				"package p",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"lowerca",
+				"Convert Case: lowerCamelCase"
+			],
+			[
+				"new syntax",
+				"PackageDev: New Syntax Definition"
+			],
+			[
+				"tree sit",
+				"TreeSitter: Install Language"
+			],
+			[
+				"fold",
+				"Code Folding: Fold All"
+			],
+			[
+				"ofld",
+				"Code Folding: Fold All"
+			],
+			[
+				"fold a",
+				"Code Folding: Unfold All"
+			],
+			[
+				"Upperc",
+				"Convert Case: UpperCamelCase"
+			],
+			[
+				"packages up",
+				"Package Control: Upgrade All Packages"
+			],
+			[
+				"update",
+				"Help: Check for Updates"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js custom",
+				"Set Syntax: JS Custom - Default"
+			],
+			[
+				"js custom ",
+				"Preferences: JS Custom"
+			],
+			[
+				"syntago ja",
+				"Set Syntax: GoJavaScript"
+			],
+			[
+				"loer",
+				"Convert Case: Lower Case"
+			],
+			[
+				"typ",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"types",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"typesc",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"go text",
+				"Set Syntax: Go Text Template"
+			],
+			[
+				"reverse",
+				"Permute Lines: Reverse"
+			],
+			[
+				"goja",
+				"Set Syntax: GoJavaScript"
+			],
+			[
+				"syntax javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"gohtml",
+				"Set Syntax: GoHTML"
+			],
+			[
+				"syntax go",
+				"Set Syntax: GoHTML"
+			],
+			[
+				"set syngo ",
+				"Set Syntax: Go"
+			],
+			[
+				"sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"coll",
+				"Code Folding: Fold All"
+			],
+			[
+				"colla",
+				"Code Folding: Fold All"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"tweak",
+				"ThemeTweaker: Settings"
+			],
+			[
+				"tweaker",
+				"ThemeTweaker: Documentation"
+			],
+			[
+				"quick ",
+				"ThemeTweaker: Quick Start Guide"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"fold all",
+				"Code Folding: Fold All"
+			],
+			[
+				"julia",
+				"Set Syntax: Julia"
+			],
+			[
+				"packa",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"theme",
+				"UI: Customize Theme"
+			],
+			[
+				"deno",
+				"Preferences: LSP-Deno Settings"
+			],
+			[
+				"lsp project",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove c",
+				"Package Control: Remove Package"
+			],
+			[
+				"ermove pa",
+				"Package Control: Remove Channel"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: LSP-Deno Settings"
+			],
+			[
+				"enable ",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"enable lang",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp",
+				"LSP: Restart Server"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"form",
+				"JsPrettier: Format Code"
+			],
+			[
+				"clone",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"for",
+				"JsPrettier: Format Code"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 732.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/sublime-repro/main.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/_v1/util.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/worker_download.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/worker_refresh_feed.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/rss.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/util.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/_v1/main.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/podflow.sublime-project",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/download.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/main.go",
+		"/Users/yurivish/go/pkg/mod/github.com/riverqueue/river@v0.16.0/client.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/.gitignore",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/_v1/worker_download.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/worker_echo.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/go.mod",
+		"/Users/yurivish/Library/Application Support/Sublime Text/Packages/Default/exec.py",
+		"/Users/yurivish/Library/Application Support/Sublime Text/Packages/C++.sublime-package",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/_main.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/justfile",
+		"/usr/local/go/src/log/slog/handler.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/README.md",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/prelude.go",
+		"/Users/yurivish/go/pkg/mod/github.com/dusted-go/logging@v1.3.0/prettylog/prettylog.go",
+		"/Users/yurivish/Library/Application Support/Sublime Text/Packages/User/Just.sublime-settings",
+		"/Users/yurivish/Library/Application Support/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/_v1/worker_echo.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/justout",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/go.sum",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/PerCoreTlbFlushPlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/BasePlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/RatePlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/SimplePlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/TlbFlushPlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/pages/ExperimentRezolus.svelte",
+		"/Users/yurivish/systemslab-ui/node_modules/.pnpm/@types+node@22.13.1/node_modules/@types/node/util.d.ts",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/PerCoreCpuUsagePlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/TlbPlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/CpuUsagePlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/PerIdTlbFlushPlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/parquet.ts",
+		"/Users/yurivish/.ssh/config",
+		"/Users/yurivish/systemslab-ui/src/lib/pages/Experiment.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/PerCgroupCpuUsagePlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/PerIdIpnsPlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/PerCgroupIpcPlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/PerCgroupRatePlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/IdHeatmapPlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/PerCgroupIpNsPlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/PerIdIpcPlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/IpcPlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/common.ts",
+		"/Users/yurivish/systemslab-ui/node_modules/.pnpm/@observablehq+plot@0.6.16/node_modules/@observablehq/plot/src/transforms/group.d.ts",
+		"/Users/yurivish/systemslab-ui/vite.config.ts",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/SyscallLatencyPlot.svelte",
+		"/Users/yurivish/systemslab-ui/src/lib/util.ts",
+		"/Users/yurivish/systemslab-ui/node_modules/.pnpm/@types+node@22.12.0/node_modules/@types/node/assert.d.ts",
+		"/Users/yurivish/systemslab-ui/src/lib/pages/ExperimentMetricsReport.svelte",
+		"/Users/yurivish/systemslab-ui/node_modules/.pnpm/@observablehq+plot@0.6.16/node_modules/@observablehq/plot/src/marks/raster.d.ts",
+		"/Users/yurivish/go/pkg/mod/github.com/mmcdole/gofeed@v1.3.0/extensions/itunes.go",
+		"/Users/yurivish/go/pkg/mod/github.com/mmcdole/gofeed@v1.3.0/feed.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/early_prototyping/draft8/main.go",
+		"/usr/local/go/src/builtin/builtin.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/worker_feed.go",
+		"/Users/yurivish/go/pkg/mod/github.com/riverqueue/river/riverdriver/riverpgxv5@v0.16.0/river_pgx_v5_driver.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/thinking.txt",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/data/podcasts.csv",
+		"/usr/local/go/src/slices/slices.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/early_prototyping/draft9/go.mod",
+		"/usr/local/go/src/net/http/status.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/cmd/prelude.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/jobs/download/05046f26c83e8c88b3ddab2eab63d0d16224ac1e564535fc75cdceee47a0938d.json",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/cmd/main.go",
+		"/usr/local/go/src/encoding/json/decode.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/foo.templ",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/early_prototyping/draft6/main.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/early_prototyping/draft5/main.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podflow/work/feed-to-episodes/input.csv",
+		"/Users/yurivish/systemslab-ui/src/lib/components/BreadcrumbSubheader.svelte",
+		"/Users/yurivish/systemslab-ui/src/graphql/index.ts",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/draft9/main.go",
+		"/Users/yurivish/Downloads/overcast (1).opml",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/draft8/want.txt",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/draft8/justfile",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/draft8/prelude.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/draft8/main.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/draft8/go.mod",
+		"/usr/local/go/src/io/fs/fs.go",
+		"/Users/yurivish/go/pkg/mod/github.com/cschleiden/go-workflows@v0.19.0/worker/worker.go",
+		"/Users/yurivish/go/pkg/mod/github.com/cschleiden/go-workflows@v0.19.0/worker/options.go",
+		"/usr/local/go/src/log/slog/text_handler.go",
+		"/Users/yurivish/go/pkg/mod/github.com/cschleiden/go-workflows@v0.19.0/client/client.go",
+		"/Users/yurivish/systemslab-ui/src/lib/pages/job/JobLogs.svelte",
+		"/Users/yurivish/systemslab-ui/node_modules/.pnpm/hyparquet@1.8.1/node_modules/hyparquet/src/types.d.ts",
+		"/Users/yurivish/systemslab-ui/node_modules/.pnpm/@types+node@22.10.7/node_modules/@types/node/util.d.ts",
+		"/Users/yurivish/systemslab-ui/src/lib/parquet_hyparquet.ts",
+		"/Users/yurivish/systemslab-ui/node_modules/.pnpm/hyparquet@1.8.1/node_modules/hyparquet/src/utils.js",
+		"/Users/yurivish/systemslab-ui/node_modules/.pnpm/hyparquet@1.8.1/node_modules/hyparquet/src/read.js",
+		"/Users/yurivish/systemslab-ui/node_modules/.pnpm/typescript@5.6.3/node_modules/typescript/lib/lib.es5.d.ts",
+		"/Users/yurivish/systemslab-ui/src/lib/components/plots/CpuPlot.svelte",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podpulse/package.json",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podpulse/src/app.css",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podpulse/src/lib/HomePage.svelte",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podpulse/src/todo.txt",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podpulse/src/lib/snippets.svelte",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/draft3/deepgram/output/Eat Drink Think - Simmer ‘till Done The Art and Simplicity of Beans with Steve Sando, author of The Bean Book/transcript.json",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podpulse/node_modules/.pnpm/@types+d3-array@3.2.1/node_modules/@types/d3-array/index.d.ts",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podpulse/src/App.svelte",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podpulse/node_modules/.pnpm/acorn@8.14.0/node_modules/acorn/dist/acorn.mjs",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/podpulse/src/assets/beans.json",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/draft4/curl.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/draft4/util.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/draft4/main.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/draft4/justfile",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/draft4/prelude.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/draft3/go.mod",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/draft3/main.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/transcript.txt",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/pod.txt",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/main.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-rust-test/src/main.rs",
+		"/usr/local/go/src/os/file.go",
+		"/usr/local/go/src/os/types.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/deepgram.key",
+		"/Users/yurivish/go/pkg/mod/github.com/deepgram/deepgram-go-sdk@v1.6.2/pkg/client/interfaces/interfaces.go",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/justfile",
+		"/Users/yurivish/Dropbox/Projects/voice-note-data-pipeline/transcription.json",
+		"/Users/yurivish/Dropbox/Projects/wavelet/index.html",
+		"/Users/yurivish/Dropbox/Projects/wavelet/src/lib/Counter.svelte"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 155.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Run",
+	"project": "repro.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"download",
+				"download.go"
+			],
+			[
+				"subl",
+				"podflow.sublime-project"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"woror",
+				"worker_refresh_feed.go"
+			],
+			[
+				"wo",
+				"worker_refresh_feed.go"
+			],
+			[
+				"rss",
+				"rss.go"
+			],
+			[
+				"rs",
+				"rss.go"
+			],
+			[
+				"just",
+				"justfile"
+			],
+			[
+				"maing",
+				"main.go"
+			],
+			[
+				"echo",
+				"worker_echo.go"
+			],
+			[
+				"gomod",
+				"go.mod"
+			],
+			[
+				"downl",
+				"worker_download.go"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"main",
+				"_v1/main.go"
+			],
+			[
+				"pod",
+				"podflow.sublime-project"
+			],
+			[
+				"justf",
+				"justfile"
+			],
+			[
+				"down",
+				"_v1/worker_download.go"
+			],
+			[
+				"justout",
+				"justout"
+			],
+			[
+				"rateplo",
+				"src/lib/components/plots/RatePlot.svelte"
+			],
+			[
+				"basepl",
+				"src/lib/components/plots/BasePlot.svelte"
+			],
+			[
+				"tlb ",
+				"src/lib/components/plots/TlbFlushPlot.svelte"
+			],
+			[
+				"rezo",
+				"src/lib/pages/ExperimentRezolus.svelte"
+			],
+			[
+				"experim",
+				"src/lib/pages/Experiment.svelte"
+			],
+			[
+				"cgroupcpu",
+				"src/lib/components/plots/PerCgroupCpuUsagePlot.svelte"
+			],
+			[
+				"peridn",
+				"src/lib/components/plots/PerIdIpnsPlot.svelte"
+			],
+			[
+				"peri",
+				"src/lib/components/plots/PerIdIpcPlot.svelte"
+			],
+			[
+				"peripns",
+				"src/lib/components/plots/PerCgroupIpNsPlot.svelte"
+			],
+			[
+				"percgroupcpuu",
+				"src/lib/components/plots/PerCgroupCpuUsagePlot.svelte"
+			],
+			[
+				"cgroupipns",
+				"src/lib/components/plots/PerCgroupIpNsPlot.svelte"
+			],
+			[
+				"percgroupcpu",
+				"src/lib/components/plots/PerCgroupCpuUsagePlot.svelte"
+			],
+			[
+				"percpu",
+				"src/lib/components/plots/PerCoreCpuUsagePlot.svelte"
+			],
+			[
+				"ipns",
+				"src/lib/components/plots/PerCgroupIpNsPlot.svelte"
+			],
+			[
+				"percgroupusage",
+				"src/lib/components/plots/PerCgroupCpuUsagePlot.svelte"
+			],
+			[
+				"percgrou",
+				"src/lib/components/plots/PerCgroupIpNsPlot.svelte"
+			],
+			[
+				"percgroup",
+				"src/lib/components/plots/PerCgroupIpcPlot.svelte"
+			],
+			[
+				"cgrouprate",
+				"src/lib/components/plots/PerCgroupRatePlot.svelte"
+			],
+			[
+				"cpuusa",
+				"src/lib/components/plots/CpuUsagePlot.svelte"
+			],
+			[
+				"percore",
+				"src/lib/components/plots/PerCoreCpuUsagePlot.svelte"
+			],
+			[
+				"percgroupip",
+				"src/lib/components/plots/PerCgroupIpcPlot.svelte"
+			],
+			[
+				"percgroupcp",
+				"src/lib/components/plots/PerCgroupCpuUsagePlot.svelte"
+			],
+			[
+				"ratepl",
+				"src/lib/components/plots/RatePlot.svelte"
+			],
+			[
+				"cgroupip",
+				"src/lib/components/plots/PerCgroupIpcPlot.svelte"
+			],
+			[
+				"ipcplot",
+				"src/lib/components/plots/IpcPlot.svelte"
+			],
+			[
+				"basep",
+				"src/lib/components/plots/BasePlot.svelte"
+			],
+			[
+				"vite",
+				"vite.config.ts"
+			],
+			[
+				"percgripns",
+				"src/lib/components/plots/PerCgroupIpNsPlot.svelte"
+			],
+			[
+				"percgrupipc",
+				"src/lib/components/plots/PerCgroupIpcPlot.svelte"
+			],
+			[
+				"ipc",
+				"src/lib/components/plots/IpcPlot.svelte"
+			],
+			[
+				"ipcpl",
+				"src/lib/components/plots/IpcPlot.svelte"
+			],
+			[
+				"cpu",
+				"src/lib/components/plots/CpuUsagePlot.svelte"
+			],
+			[
+				"simpl",
+				"src/lib/components/plots/SimplePlot.svelte"
+			],
+			[
+				"simple",
+				"src/lib/components/plots/SimplePlot.svelte"
+			],
+			[
+				"perid",
+				"src/lib/components/plots/PerIdIpnsPlot.svelte"
+			],
+			[
+				"rezol",
+				"src/lib/pages/ExperimentRezolus.svelte"
+			],
+			[
+				"base",
+				"src/lib/components/plots/BasePlot.svelte"
+			],
+			[
+				"sim",
+				"src/lib/components/plots/SimplePlot.svelte"
+			],
+			[
+				"sysca",
+				"src/lib/components/plots/SyscallLatencyPlot.svelte"
+			],
+			[
+				"idhea",
+				"src/lib/components/plots/IdHeatmapPlot.svelte"
+			],
+			[
+				"pdplot",
+				"src/lib/components/plots/PerIdIpcPlot.svelte"
+			],
+			[
+				"idheat",
+				"src/lib/components/plots/IdHeatmapPlot.svelte"
+			],
+			[
+				"experimentmetri",
+				"src/lib/pages/ExperimentMetricsReport.svelte"
+			],
+			[
+				"thinking",
+				"thinking.txt"
+			],
+			[
+				"work",
+				"worker_download.go"
+			],
+			[
+				"mai",
+				"main.go"
+			],
+			[
+				"worker",
+				"worker_download.go"
+			],
+			[
+				"downlo",
+				"worker_download.go"
+			],
+			[
+				"dow",
+				"worker_download.go"
+			],
+			[
+				"util",
+				"util.go"
+			],
+			[
+				"parq",
+				"src/lib/parquet.ts"
+			],
+			[
+				"parque",
+				"src/lib/parquet.ts"
+			],
+			[
+				"plot",
+				"src/lib/components/plots/CpuPlot.svelte"
+			],
+			[
+				"report",
+				"src/lib/pages/ExperimentMetricsReport.svelte"
+			],
+			[
+				"exper",
+				"src/lib/pages/Experiment.svelte"
+			],
+			[
+				"joblog",
+				"src/lib/pages/job/JobLogs.svelte"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"gomo",
+				"go.mod"
+			],
+			[
+				"maingo",
+				"main.go"
+			],
+			[
+				"experime",
+				"src/lib/pages/Experiment.svelte"
+			],
+			[
+				"appsve",
+				"src/App.svelte"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"experi",
+				"src/lib/pages/Experiment.svelte"
+			],
+			[
+				"apits",
+				"src/lib/api.ts"
+			],
+			[
+				"api",
+				"src/lib/api.ts"
+			],
+			[
+				"job",
+				"src/lib/pages/job/JobSubheader.svelte"
+			],
+			[
+				"svelt",
+				"src/App.svelte"
+			],
+			[
+				"contex",
+				"src/lib/pages/Contexts.svelte"
+			],
+			[
+				"experimen",
+				"src/lib/pages/Experiment.svelte"
+			],
+			[
+				"expeirment",
+				"src/lib/pages/Experiment.svelte"
+			],
+			[
+				"joblogs",
+				"src/lib/pages/job/JobLogs.svelte"
+			],
+			[
+				"logs",
+				"src/lib/pages/job/JobLogs.svelte"
+			],
+			[
+				"jobsve",
+				"src/lib/pages/job/JobSubheader.svelte"
+			],
+			[
+				"jobsv",
+				"src/lib/pages/Job.svelte"
+			],
+			[
+				"vitec",
+				"vite.config.ts"
+			],
+			[
+				"exp",
+				"src/lib/pages/ExperimentMetrics.svelte"
+			],
+			[
+				"artita",
+				"src/lib/components/ArtifactsTable.svelte"
+			],
+			[
+				"expersvel",
+				"src/lib/pages/Experiment.svelte"
+			],
+			[
+				"skele",
+				"src/lib/components/skeleton/SkeletonText.svelte"
+			],
+			[
+				"skelecs",
+				"src/lib/css/skeleton.scss"
+			],
+			[
+				"think",
+				"templates/thinking.html"
+			],
+			[
+				"home",
+				"templates/home.html"
+			],
+			[
+				"rez",
+				"src/lib/pages/ExperimentRezolus.svelte"
+			],
+			[
+				"par",
+				"src/lib/parquet.ts"
+			],
+			[
+				"homeh",
+				"templates/home.html"
+			],
+			[
+				"baseh",
+				"templates/base.html"
+			],
+			[
+				"baseht",
+				"templates/base.html"
+			],
+			[
+				"indeht",
+				"templates/index.html"
+			],
+			[
+				"indeh",
+				"templates/index.html"
+			],
+			[
+				"stye",
+				"static/style.css"
+			],
+			[
+				"silk.rs",
+				"engine/src/brush/silk.rs"
+			],
+			[
+				"silksub",
+				"silk.sublime-project"
+			],
+			[
+				"silksve",
+				"client/src/lib/pages/Silk.svelte"
+			],
+			[
+				"silkca",
+				"client/src/lib/components/SilkCanvas.svelte"
+			],
+			[
+				"netlif",
+				"~/Dropbox/Projects/silk/next/.netlify-token"
+			],
+			[
+				"gti",
+				".gitignore"
+			],
+			[
+				"giti",
+				"client/.gitignore"
+			],
+			[
+				"carto",
+				"engine/Cargo.toml"
+			],
+			[
+				"packagj",
+				"client/package.json"
+			],
+			[
+				"pnpm",
+				"client/pnpm-lock.yaml"
+			],
+			[
+				"engints",
+				"client/src/lib/silk/engine.ts"
+			],
+			[
+				"engin",
+				"engine/src/engine.rs"
+			],
+			[
+				"app.sve",
+				"client/src/App.svelte"
+			],
+			[
+				"silk.sve",
+				"client/src/lib/pages/Silk.svelte"
+			],
+			[
+				"corets",
+				"client/src/lib/silk/core.ts"
+			],
+			[
+				"librs",
+				"engine/src/lib.rs"
+			],
+			[
+				"modr",
+				"engine/src/brush/mod.rs"
+			],
+			[
+				"",
+				"silk-next.sublime-project"
+			],
+			[
+				"brushmod",
+				"engine/src/brush/mod.rs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 305.0,
+		"last_filter": "asser",
+		"selected_items":
+		[
+			[
+				"asser",
+				"assert"
+			],
+			[
+				"assert",
+				"assert"
+			],
+			[
+				"parq",
+				"ParquetTable"
+			],
+			[
+				"preloadedAsyncBufferFromUrl",
+				"preloadedAsyncBufferFromUrl"
+			],
+			[
+				"artfta",
+				"Artifact"
+			],
+			[
+				"drawmo",
+				"DrawingMode"
+			],
+			[
+				"INFINITE",
+				"INFINITE_LIMIT"
+			],
+			[
+				"maybede",
+				"MaybeDebug"
+			],
+			[
+				"core",
+				"Core"
+			],
+			[
+				"maybe",
+				"MaybeDebug"
+			],
+			[
+				"BrushGroupOf",
+				"BrushGroupOf"
+			],
+			[
+				"BrushState",
+				"BrushState"
+			],
+			[
+				"priva",
+				"private"
+			],
+			[
+				"brushsat",
+				"BrushState"
+			],
+			[
+				"init",
+				"INIT"
+			],
+			[
+				"brushgr",
+				"BrushGroup"
+			],
+			[
+				"previewb",
+				"PreviewBrush"
+			],
+			[
+				"BrushSubGroupOf",
+				"BrushSubGroupOf"
+			],
+			[
+				"brushsubgr",
+				"BrushSubGroupOf"
+			],
+			[
+				"brushgrou",
+				"BrushGroup"
+			],
+			[
+				"BrushGroup",
+				"BrushGroup"
+			],
+			[
+				"brush",
+				"BrushState"
+			],
+			[
+				"brushsub",
+				"BrushSubGroupOf"
+			],
+			[
+				"group",
+				"BrushGroup"
+			],
+			[
+				"execute_",
+				"execute_input_commands_up_to"
+			],
+			[
+				"can_",
+				"can_redo"
+			],
+			[
+				"undo",
+				"undo"
+			],
+			[
+				"i",
+				"InCmd"
+			],
+			[
+				"set_draw",
+				"set_drawing_mode"
+			],
+			[
+				"infini",
+				"isInfiniteModeEnabled"
+			],
+			[
+				"redo",
+				"core_redo"
+			],
+			[
+				"param",
+				"Param"
+			],
+			[
+				"previewst",
+				"PreviewState"
+			],
+			[
+				"groups",
+				"Groups"
+			],
+			[
+				"drawmode",
+				"DrawingMode"
+			],
+			[
+				"addgr",
+				"add_group"
+			],
+			[
+				"infinitemo",
+				"core_set_infinite_mode_core"
+			],
+			[
+				"infinite",
+				"set_infinite_mode"
+			],
+			[
+				"incmd",
+				"InCmd"
+			],
+			[
+				"write",
+				"write"
+			],
+			[
+				"restore",
+				"restore_from_snapshot"
+			],
+			[
+				"cresna",
+				"core_snapshot"
+			],
+			[
+				"top",
+				"top_layer_index"
+			],
+			[
+				"outc",
+				"OutCmd"
+			],
+			[
+				"sparklsi",
+				"sparkle_buffer_size"
+			],
+			[
+				"copla",
+				"core_copy_layer_to_layer"
+			],
+			[
+				"copy_la",
+				"copy_layers"
+			],
+			[
+				"draw_la",
+				"draw_layer_to_layer"
+			],
+			[
+				"add_gr",
+				"add_group"
+			],
+			[
+				"layerver",
+				"LayerVertex"
+			],
+			[
+				"drawlat",
+				"draw_layer_to_layer"
+			],
+			[
+				"dra_to",
+				"draw_layer_to_layer"
+			],
+			[
+				"drawla",
+				"draw_layer_to_layer"
+			],
+			[
+				"encod",
+				"Encodable"
+			],
+			[
+				"statef",
+				"Stateful"
+			],
+			[
+				"geom",
+				"Geom"
+			],
+			[
+				"loadop",
+				"LoadOp"
+			],
+			[
+				"dropb",
+				"DropBomb"
+			],
+			[
+				"renderat",
+				"RenderTarget"
+			],
+			[
+				"brushty",
+				"BrushType"
+			],
+			[
+				"OutC",
+				"OutCmd"
+			],
+			[
+				"inc",
+				"InCmd"
+			],
+			[
+				"laye",
+				"LayerRange"
+			],
+			[
+				"layers",
+				"setLayerSize"
+			],
+			[
+				"copylayert",
+				"copyLayerToLayer"
+			],
+			[
+				"Geom",
+				"GEOM"
+			],
+			[
+				"layer",
+				"LayerRange"
+			],
+			[
+				"Layer",
+				"Layer"
+			],
+			[
+				"draw",
+				"DrawDynamic"
+			],
+			[
+				"outcm",
+				"OutCmd"
+			],
+			[
+				"outcmd",
+				"OutCmd"
+			],
+			[
+				"copy_layer_to_layer",
+				"core_copy_layer_to_layer"
+			],
+			[
+				"copylat_ola",
+				"copy_layer_to_layer"
+			],
+			[
+				"BrushGrouHan",
+				"BrushGroupHandle"
+			],
+			[
+				"BrushGr",
+				"BrushGroup"
+			],
+			[
+				"Brushes",
+				"Brushes"
+			],
+			[
+				"Brushrs",
+				"BrushSubGroup"
+			],
+			[
+				"layerren",
+				"LayerRenderer"
+			],
+			[
+				"copylay",
+				"copyLayerToScratchLayer"
+			],
+			[
+				"outcom",
+				"OutCommand"
+			],
+			[
+				"parmap",
+				"params_map"
+			],
+			[
+				"params_ma",
+				"params_map"
+			],
+			[
+				"_command",
+				"write_gpu_buffer_command"
+			],
+			[
+				"render",
+				"encode_render_command"
+			],
+			[
+				"as_sl",
+				"as_slices"
+			],
+			[
+				"frame",
+				"frame"
+			],
+			[
+				"deref",
+				"deref"
+			],
+			[
+				"incom",
+				"InCommand"
+			],
+			[
+				"brushid",
+				"BrushGroupId"
+			],
+			[
+				"brushgrid",
+				"BrushGroupId"
+			],
+			[
+				"create_",
+				"core_create_group_id"
+			],
+			[
+				"enqueue",
+				"enqueue_command"
+			],
+			[
+				"Brush",
+				"Brush"
+			],
+			[
+				"icom",
+				"InCommand"
+			],
+			[
+				"core_dyn",
+				"core_dynamic_verts"
+			],
+			[
+				"instance_colors",
+				"core_instance_colors"
+			],
+			[
+				"write_",
+				"write_gpu_buffer_next_command"
+			],
+			[
+				"console",
+				"console"
+			],
+			[
+				"input",
+				"Input"
+			],
+			[
+				"group_id",
+				"group_id"
+			],
+			[
+				"renderc",
+				"core_render_commands"
+			],
+			[
+				"execu",
+				"execute"
+			],
+			[
+				"creategr",
+				"core_create_group"
+			],
+			[
+				"execute",
+				"execute"
+			],
+			[
+				"core_copy",
+				"core_copy_layer_to_layer"
+			],
+			[
+				"copy_scratch_layer_to_layer",
+				"copy_scratch_layer_to_layer"
+			],
+			[
+				"draw_layer_to_layer",
+				"draw_layer_to_layer"
+			],
+			[
+				"snap",
+				"core_snapshot"
+			],
+			[
+				"set_ca",
+				"core_set_canvas_size"
+			],
+			[
+				"set_can",
+				"set_canvas_size"
+			],
+			[
+				"draw_l",
+				"draw_layer_to_layer"
+			],
+			[
+				"inputcom",
+				"InputCommand"
+			],
+			[
+				"coreclearla",
+				"core_clear_layer"
+			],
+			[
+				"coreclear",
+				"core_clear"
+			],
+			[
+				"inputc",
+				"InputCommand"
+			],
+			[
+				"tick",
+				"Tick"
+			],
+			[
+				"rendercomm",
+				"core_render_commands"
+			],
+			[
+				"copy_l",
+				"core_copy_layer_to_layer"
+			],
+			[
+				"snapsh",
+				"Snapshot"
+			],
+			[
+				"layerr",
+				"LayerRenderer"
+			],
+			[
+				"copyscra",
+				"copyScratchLayerToLayer"
+			],
+			[
+				"clone",
+				"clone_box"
+			],
+			[
+				"cloneb",
+				"clone_box"
+			],
+			[
+				"clone_b",
+				"clone_box"
+			],
+			[
+				"brushg",
+				"BrushGroup"
+			],
+			[
+				"swap",
+				"swap_layers"
+			],
+			[
+				"coreswa",
+				"core_swap_layers"
+			],
+			[
+				"write_mat",
+				"core_write_mat3"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
