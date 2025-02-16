@@ -30,3 +30,5 @@ Press Ctrl+\ to send SIGQUIT
 Caught signal: interrupt
 exit status 130
 ```
+
+I see the same result if I launch Sublime Text in safe mode (`subl --safe-mode`).
