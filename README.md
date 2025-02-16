@@ -1,6 +1,6 @@
 # Sublime Cancel
 
-_Update_: It turns out the cancelled process does receive a SIGTERM but Sublime Text does not show any subsequent output from that process afterwards. See https://github.com/sublimehq/sublime_text/issues/1186
+_Update_: It turns out the cancelled process does receive a SIGTERM but Sublime Text does not show any subsequent output from that process after the signal is sent. See https://github.com/sublimehq/sublime_text/issues/1186
 
 This repository hosts a minimal reproduction of an issue I'm seeing on macOS where canceling a build in Sublime Text does not appear to send a kill signal when cancelling a build, which prevents the possibility of graceful shutdown.
 
